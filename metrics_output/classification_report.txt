@@ -1,0 +1,14 @@
+Validation Accuracy: 97.99%
+
+               precision    recall  f1-score   support
+
+        crack       0.90      1.00      0.95        35
+      scratch       0.98      0.97      0.98       474
+    tire flat       1.00      0.97      0.99       104
+         dent       0.97      0.99      0.98       413
+glass shatter       1.00      0.99      0.99       233
+  lamp broken       0.98      0.97      0.98       181
+
+     accuracy                           0.98      1440
+    macro avg       0.97      0.98      0.98      1440
+ weighted avg       0.98      0.98      0.98      1440
