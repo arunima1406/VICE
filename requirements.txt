@@ -1,0 +1,12 @@
+# Core packages
+pandas>=1.3.0
+tqdm>=4.60.0
+Pillow>=8.0.0
+regex>=2021.4.4  # used by 're', optional but good to specify
+
+# PyTorch and torchvision
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Transformers (includes ViTFeatureExtractor)
+transformers>=4.21.0
