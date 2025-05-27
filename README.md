@@ -67,8 +67,8 @@ This project automates the process of estimating insurance costs for vehicles by
 - Python 3.9
 - PyTorch
 - TorchVision
-- ##Vision transformer Dependencies
-- ##NumPy
+- Vision transformer Dependencies
+- NumPy
 - Matplotlib
 
 You can install them using:
