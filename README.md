@@ -9,10 +9,10 @@ This project automates the process of estimating insurance costs for vehicles by
 ### 1. Libraries Imported
 
 - PIL for image processing
-- 'sklearn/' for train-test split and evaluation metrics
-- 'torch/' and torchvision for deep learning pipeline
-- 'transformers/' for Vision Transformer model and processor
-- 'tqdm/' for progress bars during training
+- sklearn for train-test split and evaluation metrics
+- torch and torchvision for deep learning pipeline
+- transformers for Vision Transformer model and processor
+- tqdm for progress bars during training
 
 
 ### 2. Dataset
